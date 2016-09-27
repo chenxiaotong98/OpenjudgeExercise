@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468901160 source:e:\lessons\openjudge\1007\1007.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
